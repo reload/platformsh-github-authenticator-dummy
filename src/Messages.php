@@ -13,7 +13,7 @@ class Messages
 
     public function message() : string
     {
-        return "With love from Platform.sh! Authenticated by GitHub!";
+        return "With love from Platform.sh! Authenticated by GitHub now!";
     }
 
 }
